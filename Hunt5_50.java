@@ -11,9 +11,9 @@ public class Hunt5_50 {
 	    while(div>=0)
 	    {
 	      div=div-dividedby;
-	      System.out.println(div);
+	    
 	      count ++;
-	      System.out.println(count+"..");
+	     
 	    }
 	    System.out.println(count-1);
 	}
